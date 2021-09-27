@@ -2,7 +2,9 @@
 
 This model will help to detect some sign languages using Tensorflow Object Detection model.
 
-Kindly run/execute the Image Collection first followed by Training and Detection file.
+Kindly run/execute
+1. Image Collection
+2. Training and Detection
 
 You are free to change/update the file according to your use case.
 
@@ -21,3 +23,5 @@ EVALUATION RESULTS:
 TEST RESULT:
 
 ![test-result](https://user-images.githubusercontent.com/17869716/134928242-e89510cc-f47b-4494-97f0-e2e47f3f8ffa.PNG)
+
+Using performance tuning it will help to improve real time object detection.
