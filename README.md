@@ -12,10 +12,12 @@ LOSS GRAPH:
 ![Capture1](https://user-images.githubusercontent.com/17869716/134928179-d5414ad9-0bf8-4f00-8b5c-67cdc5308b31.PNG)
 
 EVALUATION RESULTS:
-![individualImage (1)](https://user-images.githubusercontent.com/17869716/134928214-be643b3b-50cf-4aef-afa1-aec790997d50.png)
-![individualImage (2)](https://user-images.githubusercontent.com/17869716/134928228-becb1bdd-c682-4287-9d5e-8c6a2fbc65f2.png)
-![individualImage (3)](https://user-images.githubusercontent.com/17869716/134928235-095b86d4-6981-42cf-8bd9-f4fd0733e9e1.png)
-![individualImage](https://user-images.githubusercontent.com/17869716/134928236-794cadd5-2347-4d9a-82c9-343a39117a5f.png)
+
+![individualImage (1)](https://user-images.githubusercontent.com/17869716/134929453-e2588092-5541-4db6-b500-49874ab444b5.png)
+![individualImage (2)](https://user-images.githubusercontent.com/17869716/134929461-06a8319c-c459-418a-854c-1fbb46ee1dd9.png)
+![individualImage (3)](https://user-images.githubusercontent.com/17869716/134929465-75d0e5b7-c9b5-4c1f-920e-1732a8500cf7.png)
+![individualImage](https://user-images.githubusercontent.com/17869716/134929471-9dbcc1fe-eaf4-4e59-80a1-02dfc905f0bc.png)
 
 TEST RESULT:
+
 ![test-result](https://user-images.githubusercontent.com/17869716/134928242-e89510cc-f47b-4494-97f0-e2e47f3f8ffa.PNG)
