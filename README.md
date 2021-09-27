@@ -15,10 +15,10 @@ LOSS GRAPH:
 
 EVALUATION RESULTS:
 
-![individualImage (1)](https://user-images.githubusercontent.com/17869716/134929453-e2588092-5541-4db6-b500-49874ab444b5.png)
-![individualImage (2)](https://user-images.githubusercontent.com/17869716/134929461-06a8319c-c459-418a-854c-1fbb46ee1dd9.png)
-![individualImage (3)](https://user-images.githubusercontent.com/17869716/134929465-75d0e5b7-c9b5-4c1f-920e-1732a8500cf7.png)
-![individualImage](https://user-images.githubusercontent.com/17869716/134929471-9dbcc1fe-eaf4-4e59-80a1-02dfc905f0bc.png)
+![individualImage (1)](https://user-images.githubusercontent.com/17869716/134931103-c26601af-d088-4ded-b0be-9dfcfe3e9781.png)
+![individualImage (2)](https://user-images.githubusercontent.com/17869716/134931123-3a7067ac-9bb3-4c99-be7d-a32a01c8921e.png)
+![individualImage (3)](https://user-images.githubusercontent.com/17869716/134931128-2527cefc-f109-46f8-80de-a3747fe5f6ad.png)
+![individualImage](https://user-images.githubusercontent.com/17869716/134931132-45e7007b-ec72-465d-ae90-3dffc1fea75f.png)
 
 TEST RESULT:
 
