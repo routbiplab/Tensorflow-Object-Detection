@@ -11,7 +11,7 @@ Here we have two files
     2.4: Training and evaluation of the model.
     2.5: Testing using existing image or real time image capture using webcam.
 
-We have used Tensorboard which is a GUI for interactive monitoring tool
+We have used Tensorboard which is a GUI for interactive monitoring tool.
 
 This is the LOSS GRAPH as obtained from the training model:
 
@@ -51,5 +51,3 @@ Libraries Used:
 URLs used:
 1. https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 2. https://developer.nvidia.com
-
-Credits: https://www.youtube.com/channel/UCHXa4OpASJEwrHrLeIzw7Yg
