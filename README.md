@@ -25,3 +25,9 @@ TEST RESULT:
 ![test-result](https://user-images.githubusercontent.com/17869716/134928242-e89510cc-f47b-4494-97f0-e2e47f3f8ffa.PNG)
 
 Using performance tuning it will help to improve real time object detection.
+
+Here are the steps :
+
+1. Add more images for training
+2. Increase the step size
+3. Change the architecture
