@@ -1,10 +1,10 @@
 # Tensorflow-Object-Detection
 
-This model will help to detect some sign languages using Tensorflow Object Detection model.
+This model will help to detect sign languages using Tensorflow Object Detection model.
 
-Kindly run/execute
-1. Image Collection
-2. Training and Detection
+Here we have two files
+Step 1. Image Collection : This is where we try to collect the images
+Step 2. Training and Detection
 
 You are free to change/update the file according to your use case.
 
